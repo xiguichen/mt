@@ -1,0 +1,2 @@
+# mt
+meteor helper script
